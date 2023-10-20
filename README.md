@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
 - Run `pip3 install -r requirements.txt`
 - Ensure that the postgres server details and credentials are correct in `.env`
 - For mirgations run :
-- python3 manage.py makemigrations
-- python3 manage.py migrate
+- `python3 manage.py makemigrations`
+- `python3 manage.py migrate`
 - Launch the app by :
 - `python3 manage.py runserver`

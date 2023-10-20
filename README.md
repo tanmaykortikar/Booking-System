@@ -14,6 +14,5 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone this repository:
-
    git clone https://github.com/tanmaykortikar/Booking-System.git
    cd booking-system
